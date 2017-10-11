@@ -1,0 +1,20 @@
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("http://hello.myfonts.net/count/2c0b5f");
+
+// Webfont: TradeGothicLT
+@font-face {font-family: 'trade-gothic-regular';src: url('../assets/2C0B5F_0_0.eot');src: url('../assets/2C0B5F_0_0.eot?#iefix') format('embedded-opentype'),url('../assets/2C0B5F_0_0.woff') format('woff'),url('../assets/2C0B5F_0_0.ttf') format('truetype');}
+
+// Webfont: TradeGothicLT-Light
+@font-face {font-family: 'trade-gothic-light';src: url('../assets/2C0B5F_3_0.eot');src: url('../assets/2C0B5F_3_0.eot?#iefix') format('embedded-opentype'),url('../assets/2C0B5F_3_0.woff') format('woff'),url('../assets/2C0B5F_3_0.ttf') format('truetype');}
+
+// Webfont: TradeGothicLT-Bold
+@font-face {font-family: 'trade-gothic-bold';src: url('../assets/2C0B5F_4_0.eot');src: url('../assets/2C0B5F_4_0.eot?#iefix') format('embedded-opentype'),url('../assets/2C0B5F_4_0.woff') format('woff'),url('../assets/2C0B5F_4_0.ttf') format('truetype');}
+
+// Webfont: TradeGothicLTCom-Bd2
+@font-face {font-family: 'trade-gothic-com-bold-2';src: url('../assets/2C0B5F_1_0.eot');src: url('../assets/2C0B5F_1_0.eot?#iefix') format('embedded-opentype'),url('../assets/2C0B5F_1_0.woff') format('woff'),url('../assets/2C0B5F_1_0.ttf') format('truetype');}
+
+// Webfont: TradeGothicLTPro-Cn18
+@font-face {font-family: 'trade-gothic-pro-condensed-18';src: url('../assets/2C0B5F_2_0.eot');src: url('../assets/2C0B5F_2_0.eot?#iefix') format('embedded-opentype'),url('../assets/2C0B5F_2_0.woff') format('woff'),url('../assets/2C0B5F_2_0.ttf') format('truetype');}
+
+// Webfont: TradeGothicLTPro-BdCn20
+@font-face {font-family: 'trade-gothic-pro-bold-condensed-20';src: url('../assets/2C0B5F_5_0.eot');src: url('../assets/2C0B5F_5_0.eot?#iefix') format('embedded-opentype'),url('../assets/2C0B5F_5_0.woff') format('woff'),url('../assets/2C0B5F_5_0.ttf') format('truetype');}
